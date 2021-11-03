@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"br.com.baytebank.banco.modelo","l":"Conta"}];updateSearchResults();
